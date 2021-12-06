@@ -2,7 +2,7 @@
 
 In this task, we will explore whether a causal relation can be detected by a NLP model given a sentence. We will use Large Pre-trained Language model as our encoder, then fine-tune it with our data. In addition, after getting the contextualised embedding of the input sentence, it will be pass to a shallow feed-forward neural network. Since huggingface provides a terrific module called BertForClassification, we will adopt it in the experiment.
 
-### Dataset: Semeval-2010-Task 8
+## Dataset: Semeval-2010-Task 8
 
 ### An instance of our data:
 #### with entity feature: Most of the <e1> taste <\e1> of strong onions comes from the <e2> smell <\e2>.
@@ -29,8 +29,8 @@ Entity-Destination (ED). An entity is moving towards a destination. Eg. the boy 
 Communication-Topic (CT). An act of communication, written or spoken, is about a topic.  Example: the lecture was about semantics
 
 
-### experiment planing
+## experiment planing
 ![Capture](https://user-images.githubusercontent.com/79228128/144900110-c2605776-6020-4145-bb8f-15969439abb2.PNG)
 
-### Results:
+## Results:
 ![Capture2](https://user-images.githubusercontent.com/79228128/144900251-33841eb0-60b3-4b2a-926d-835ab09b965b.PNG)
