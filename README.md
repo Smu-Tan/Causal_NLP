@@ -1,4 +1,4 @@
-### Causal relation detection
+## Causal relation detection
 
 In this task, we will explore whether a causal relation can be detected by a NLP model given a sentence. We will use Large Pre-trained Language model as our encoder, then fine-tune it with our data. In addition, after getting the contextualised embedding of the input sentence, it will be pass to a shallow feed-forward neural network. Since huggingface provides a terrific module called BertForClassification, we will adopt it in the experiment.
 
