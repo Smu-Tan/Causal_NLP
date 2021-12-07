@@ -30,7 +30,8 @@ Communication-Topic (CT). An act of communication, written or spoken, is about a
 
 
 ## experiment planing
-![Capture](https://user-images.githubusercontent.com/79228128/144900110-c2605776-6020-4145-bb8f-15969439abb2.PNG)
+![Capture](https://user-images.githubusercontent.com/79228128/144997909-024d9c8c-f702-49cb-a203-6caf4eec002d.PNG)
+
 
 ## Results:
 ![Capture2](https://user-images.githubusercontent.com/79228128/144900251-33841eb0-60b3-4b2a-926d-835ab09b965b.PNG)
